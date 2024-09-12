@@ -1,3 +1,5 @@
+# Private backup of Berkely's BJC curriculum because their website is down :C
+
 # bjc-r [EDC][edc] | [Berkeley][berkeley]
 
 [The Beauty and Joy of Computing](https://bjc.berkeley.edu) curriculum repository.
